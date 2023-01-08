@@ -6,6 +6,8 @@ Steps to test:
 
 --> clear app.log file
 
+--> run "npm i"
+
 --> create .env file and paste mongodb string here
 
 --> run the command "npm test"
