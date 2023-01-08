@@ -8,7 +8,7 @@ Steps to test:
 
 --> run "npm i"
 
---> create .env file and paste mongodb string here
+--> create .env file and paste mongodb string here (refereced in connect.js)
 
 --> run the command "npm test"
 
@@ -32,7 +32,7 @@ timestamp : true
 Description
 
 --> Element class is created where on , trigger and off are implemented so that we can create an object of Element class , suppose ele1 and attach callbacks to this 
-element
+element ( element.js)
 
 --> personal mongodb is set up
 
