@@ -8,7 +8,7 @@ Steps to test:
 
 --> run "npm i"
 
---> create .env file and paste mongodb string here (refereced in connect.js)
+--> create .env file and paste mongodb string here (referenced in connect.js)
 
 --> run the command "npm test"
 
